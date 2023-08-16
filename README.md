@@ -21,9 +21,9 @@ OpenCore EFI, which I use to use the macOS operating system on my computer
 
 | macOS | Status                |
 | :-------- | :------------------------- |
-| Ventura (13) | ✅ Work|
-| Monterey (12) | ✅ Work|
-| Big Sur (11) | ✅ Work|
+| Ventura (13) | ✅|
+| Monterey (12) | ✅|
+| Big Sur (11) | ✅|
 | Other (10.X) | ❓ Didn't check|
 
 ## Important
