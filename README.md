@@ -10,7 +10,7 @@ OpenCore EFI, which I use to use the macOS operating system on my computer
 | :-------- | :------------------------- |
 | CPU | 3,6 GHz AMD Ryzen 5 5500                                |
 | Motherboard | TUF GAMING B550M-PLUS |
-| RAM | 32 GB 2133 MHz DDR4 (16GB x 2) |
+| RAM | 32 GB 2933 MHz DDR4 (16GB x 2) |
 | GPU | AMD Radeon RX 580 8 GB |
 | Audio Chipset | Realtek ALC S1200A 7.1 |
 | Ethernet | Realtek RTL8125B |
