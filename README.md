@@ -24,7 +24,7 @@ OpenCore EFI, which I use to use the macOS operating system on my computer
 | Ventura (13) | ✅|
 | Monterey (12) | ✅|
 | Big Sur (11) | ✅|
-| Other (10.X) | ❓ Didn't check|
+| Other (10.X) | ❓|
 
 ## Important
 You need to generate your SMBIOS, I use the MacPro7,1 model for my EFI
